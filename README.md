@@ -17,7 +17,7 @@ In the 1920s this building was the Carnegie Library.  Since [tbd] the library be
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
 
-![SketchUp Make 2017 model screenshot](tbd)
+![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-carnegie-library/blob/master/carnegie-library-exterior-1920.jpg)
 
 ### Online references & photographs
 * tbd
