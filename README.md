@@ -18,7 +18,7 @@
 - Modeled in SketchUp Make 2017
 
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-carnegie-library/blob/master/carnegie-library-exterior-1920.jpg)
-![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-carnegie-library/blob/master/carnegie-library-exterior-1920.jpg)
+![Exterior photo c.1920?](https://github.com/TimeWalkOrg/building-mill-valley-ca-carnegie-library/blob/master/carnegie-library-photo.jpg)
 
 ### Online references & photographs
 - [Carnegie Libraries of California](http://www.carnegie-libraries.org/california/millvalley.html)
