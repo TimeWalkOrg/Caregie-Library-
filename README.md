@@ -3,16 +3,14 @@
 
 ## Building History
 
-In the 1920s this building was the Carnegie Library.  Since [tbd] the library became a private residence.  (describe the building purpose in 1920)...
+"Mill Valley's first library was based on a private collection of books belonging to the Outdoor Art Club, a woman's group dedicated to "protection of trees and birds." In 1908 the books were given to the city which housed them in temporary locations until a Carnegie grant of $10,000 was received in 1910; more was unsuccessfully sought to meet building costs reported to be $22,500. Architect C.H. Russell designed the building; Robert Tros was the builder. When the new library was completed, the Carnegie building was sold to a private purchaser for $16,000. It has since been resold, and has served as both multiple and single family residence and studio. The Carnegie cornerstone is on display in the History Room of the new library." (Source: [Carnegie Libraries of California](http://www.carnegie-libraries.org/california/millvalley.html))
 
-- Built: c.tbd
-- Replaced: c.tbd
-- Architect: tbd
-- Library link: tbd
-
+- Built: c.1920
+- Replaced: Building never replaced
+- Architect: C.H.Russell
+- Builder: Robert Tros
 
 ## SketchUp Model
-
 - Made by Ryan Belza, Max Hasen, Paolo Ciolino
 - Model completed: December, 2017
 - Modeled in SketchUp Make 2017
@@ -20,7 +18,8 @@ In the 1920s this building was the Carnegie Library.  Since [tbd] the library be
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-carnegie-library/blob/master/carnegie-library-exterior-1920.jpg)
 
 ### Online references & photographs
-* tbd
+- [Carnegie Libraries of California](http://www.carnegie-libraries.org/california/millvalley.html)
+
 
 ## TimeWalk Images
 ![TimeWalk Unity Model](tbd)
