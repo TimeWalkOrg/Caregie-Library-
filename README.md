@@ -3,18 +3,21 @@
 
 ## Building History
 
-"Mill Valley's first library was based on a private collection of books belonging to the Outdoor Art Club, a woman's group dedicated to "protection of trees and birds." In 1908 the books were given to the city which housed them in temporary locations until a Carnegie grant of $10,000 was received in 1910; more was unsuccessfully sought to meet building costs reported to be $22,500. Architect C.H. Russell designed the building; Robert Tros was the builder. When the new library was completed, the Carnegie building was sold to a private purchaser for $16,000. It has since been resold, and has served as both multiple and single family residence and studio. The Carnegie cornerstone is on display in the History Room of the new library." (Source: [Carnegie Libraries of California](http://www.carnegie-libraries.org/california/millvalley.html))
+Mill Valley's first public library owed the origins of its collections to the Outdoor Art Club, a nonprofit organization founded in 1902 by a group of women dedicated to the protection and preservation of Mill Valley's natural beauty. The Outdoor Art Club donated its private collection of books to the city in 1908, following the approval of a bond measure that included $2,500 for acquisition of a library site. The books were housed in temporary locations for two years until finally, in 1910, the city was able to secure a Carnegie grant of $10,000 for the construction of a library building (Source: [Carnegie Libraries of California](http://www.carnegie-libraries.org/california/millvalley.html)).
 
-"The first library opened on July 22, 1911 at 52 Lovell Avenue. The first librarian was Lillian Gardner, and the library was successful from day one. It grew in popularity, so much so that by the late 1930s, there was talk of moving out of its location for a larger facility." (Source: [Then and Now: Mill Valley](https://patch.com/california/millvalley/then-and-now-mill-valley-library))
+Property had already been purchased by the city in 1909 for $2,000. This property, on Lovell at Madrona, became the site of the new library. Architect C. H. Russell designed the building at 52 Lovell Avenue, and Robert Trost was the builder. The Carnegie Library opened its doors to the public on July 22, 1911 under the supervision of librarian Lillian Gardner. 
 
-- Built: c.1920
-- Replaced: Building never replaced
-- Architect: C.H.Russell
-- Builder: Robert Tros
+By the late 1930s, the library’s popularity had grown such that “there was talk of moving to a larger facility” (Source: [Then and Now: Mill Valley](https://patch.com/california/millvalley/then-and-now-mill-valley-library)). “When the new city library in Old Mill Park was completed in 1966, the Carnegie building was sold to a private purchaser for $16,000. It has since been resold, and has served as both multiple and single family residences and studios. The Carnegie cornerstone is on display in the History Room of the current library." (Source: [Carnegie Libraries of California](http://www.carnegie-libraries.org/california/millvalley.html))
+
+-	Built: c.1910-11
+-	Modifications: unknown
+-	Architect: C. H. Russell
+-	Builder: Robert Trost
+
 
 ## SketchUp Model
 - Made by Ryan Belza, Max Hasen, Paolo Ciolino
-- Model completed: December, 2017
+- Model completed: December 2017
 - Modeled in SketchUp Make 2017
 
 ![SketchUp Make 2017 model screenshot](https://github.com/TimeWalkOrg/building-mill-valley-ca-carnegie-library/blob/master/carnegie-library-1920.jpg)
